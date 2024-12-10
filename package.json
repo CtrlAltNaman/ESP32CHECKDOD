@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000E\u0000S\u0000P\u00003\u00002\u0000C\u0000H\u0000E\u0000C\u0000K\u0000D\u0000O\u0000D\u0000\r\u0000 \u0000",
   "dependencies": {
     "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongodb": "^6.11.0",
